@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SimpleServer.iml" filepath="$PROJECT_DIR$/SimpleServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleServerConcurrent.iml" filepath="$PROJECT_DIR$/SimpleServerConcurrent.iml" />
     </modules>
   </component>
 </project>
